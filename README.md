@@ -1,2 +1,2 @@
-# DevSIAvancadoI
-Codigos das Aulas de Sistemas Avançados I
+# DesSIAvancadoI
+Codigos das aulas da disciplina de Desenvolvimento de Sistemas de Informação Avançados I.
